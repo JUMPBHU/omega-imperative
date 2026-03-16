@@ -1,0 +1,59 @@
+Theme_ID,Theme_Name,Mechanism_Type,Theological_Category,Bias_Score,Research_Status,Confidence,Explicit_Matches,Scholarly_Sources
+THM-001,Singular Creator Source,Metaphysical,Comparative,0.34,Verified,5,7,2
+THM-005,Action → Consequence (Karma/Judgment),Ethical,Comparative,0.49,Verified,5,5,1
+THM-012,The Illusion of the Material World,Ontological,Comparative,0.54,Needs Review,4,4,1
+THM-031,Divine Spark / Inner Light Within,Ontological,Comparative,0.22,Verified,5,9,2
+THM-032,The Way / Path / Straight Road,Soteriological,Comparative,0.21,Verified,5,9,2
+THM-033,Ego Dissolution / Self-Transcendence,Soteriological,Comparative,0.2,Verified,4,9,2
+THM-034,"Death, Rebirth and Resurrection",Eschatological,Comparative,0.19,Verified,4,9,2
+THM-035,Sacred Number and Cosmic Order,Cosmological,Comparative,0.22,Verified,3,9,2
+THM-109,Divine Justice,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-110,Free Will vs Determinism,Ethical,Comparative,0.22,Needs Review,4,9,2
+THM-111,The Golden Rule / Reciprocity,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-112,Fasting and Purification,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-113,The Divine Spark / Atman,Spiritual,Comparative,0.28,Needs Review,4,8,2
+THM-114,Ego Death and Transcendence,Spiritual,Comparative,0.32,Needs Review,4,9,1
+THM-115,Sacred Geometry in Creation,Cosmological,Comparative,0.26,Needs Review,4,9,2
+THM-116,The Path of Non-Attachment,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-117,The Concept of Grace,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-118,Karmic Debt and Retribution,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-119,The Nature of Evil,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-120,Divine Providence vs Luck,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-121,The Power of the Word / Logos,Cosmological,Comparative,0.34,Needs Review,4,9,1
+THM-122,Asceticism and Self-Denial,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-123,The Afterlife and Judgement,Ethical,Comparative,0.32,Needs Review,4,9,1
+THM-124,Universal Compassion,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-125,The Role of the Prophet,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-126,Divine Wisdom (Sophia),Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-127,The Veil of Illusion (Maya),Epistemological,Comparative,0.28,Needs Review,4,9,1
+THM-128,Sacred Hospitality,Ethical,Comparative,0.32,Needs Review,4,9,1
+THM-129,The Inner Temple,Spiritual,Comparative,0.28,Needs Review,4,9,1
+THM-130,Covenant and Sacred Contracts,Ethical,Comparative,0.32,Needs Review,4,9,1
+THM-131,The Breath of Life / Prana / Ruh,Spiritual,Comparative,0.4,Needs Review,4,9,0
+THM-132,The Return to Source,Spiritual,Comparative,0.28,Needs Review,4,9,1
+THM-133,Divine Feminine / Wisdom Mother,Archetypal,Comparative,0.26,Needs Review,4,9,2
+THM-134,The Hero's Spiritual Journey,Ethical,Comparative,0.34,Needs Review,4,9,0
+THM-135,Sacred Silence,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-137,The Law of Reciprocity,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-138,Divine Light and Radiance,Mystical,Comparative,0.22,Needs Review,4,9,2
+THM-139,The Collective Unconscious / Akashic,Metaphysical,Comparative,0.38,Needs Review,4,8,1
+THM-140,The Unity of All Being,Metaphysical,Comparative,0.28,Needs Review,4,9,1
+THM-141,Right Action (Dharma),Ethical,Comparative,0.32,Needs Review,4,9,1
+THM-142,The Nature of Suffering,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-143,The Alchemical Marriage,Spiritual,Comparative,0.34,Needs Review,4,9,1
+THM-144,Symbolism of the Tree of Life,Cosmological,Comparative,0.28,Needs Review,4,9,1
+THM-145,The End of Days / Eschatology,Eschatological,Comparative,0.28,Needs Review,4,9,1
+THM-146,The Presence of the Divine in Nature,Ethical,Comparative,0.34,Needs Review,4,9,0
+THM-147,Divine Forgiveness,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-148,The Concept of Faith,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-150,The Role of Ritual and Ceremony,Ethical,Comparative,0.38,Needs Review,4,9,0
+THM-151,Divine Protection and Aegis,Ethical,Comparative,0.22,Needs Review,4,9,2
+THM-152,The Concept of Peace (Shalom/Salam),Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-153,Mastery of the Self,Ethical,Comparative,0.22,Needs Review,4,9,2
+THM-154,The Quest for Immortality,Spiritual,Comparative,0.28,Needs Review,4,9,1
+THM-155,The Celestial Hierarchy,Cosmological,Comparative,0.28,Needs Review,4,9,1
+THM-156,Divine Sovereignty,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-157,Redemption,Ethical,Comparative,0.28,Needs Review,4,9,1
+THM-158,Sacred Pilgrimage,Spiritual,Comparative,0.28,Needs Review,4,9,1
+THM-159,The Alchemy of Transformation,Spiritual,Comparative,0.28,Needs Review,4,9,1
+THM-160,The Spiritual Warrior,Ethical,Comparative,0.28,Needs Review,4,9,1
